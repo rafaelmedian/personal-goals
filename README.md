@@ -1,8 +1,6 @@
 Personal Goals
 ==============
 
-This is based on the UNA KRAVITS [project](https://github.com/una/personal-goals) 
-
 # Overall goals for 2016
 1. JavaScript!
 2. CSS!
